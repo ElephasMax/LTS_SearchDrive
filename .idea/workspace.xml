@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db427109-3963-4797-bb7d-196fc7d43f1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DriveSearch.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LTS_SearchDrive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LTS_SearchDrive.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +119,7 @@
       <workItem from="1579898577259" duration="204000" />
       <workItem from="1579898794710" duration="399000" />
       <workItem from="1579899260102" duration="1057000" />
-      <workItem from="1579900767527" duration="4649000" />
+      <workItem from="1579900767527" duration="5789000" />
     </task>
     <servers />
   </component>

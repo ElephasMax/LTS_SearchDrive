@@ -4,8 +4,11 @@
 #Installing Requirements
 ```
 pip install -r requirements.txt
-
-or
-
-pip3 install -r requirments.txt
 ```
+
+# How to run
+
+
+Windows: run DriveSearch.bat
+
+Linux/Mac: `` python DriveSearch.py``
