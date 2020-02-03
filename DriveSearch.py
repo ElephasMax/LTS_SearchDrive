@@ -1,12 +1,15 @@
 import easygui
 import os
-
+import win32api
+import pathlib
 program = "DriveSearch"
 
 
 def search(path, keyword):
+    abs_path = pathlib.Path(path).resolve()
+
     list = []
-    for root, dirs, files in os.walk(path, topdown=False):
+    for root, dirs, files in os.walk(abs_path, topdown=False):
         for name in files:
             if keyword.lower() in name.lower():
                 list.append(os.path.join(root, name))
@@ -72,3 +75,4 @@ def main():
 
 
 main()
+
