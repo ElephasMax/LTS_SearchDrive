@@ -54,7 +54,8 @@ def main():
                     continue
                 else:
                     exit(0)
-            header = "To save press OK.\nResults: \n Directory: " + directory + "\n Keyword: " + keyword + "\n Number of Results: " + str(len(results))
+            unc = pathlib.Path(directory).resolve()
+            header = "To save press OK.\nResults: \n Directory: " + directory + "\n UNC: " + str(unc) + "\n Keyword: " + keyword + "\n Number of Results: " + str(len(results))
             results_pretty = ""
             for line in results:
                 results_pretty += line + "\n\n"
