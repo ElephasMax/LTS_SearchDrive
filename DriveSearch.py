@@ -1,6 +1,5 @@
 import easygui
 import os
-import win32api
 import pathlib
 program = "DriveSearch"
 
