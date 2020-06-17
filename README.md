@@ -1,5 +1,5 @@
 # DriveSearch
-> This program recursively searches a directory for files that contains a keyword.
+> This program recursively searches a directory for files that contains a user specified keyword.
 
 #Installing Requirements
 ```
