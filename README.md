@@ -1,7 +1,8 @@
 # DriveSearch
-> This program recursively searches a directory for files that contains a user specified keyword.
+> I wrote this program to recursively search a directory for files that contains a user specified keyword while working at Morgan Library.
 
-#Installing Requirements
+
+# Installing the Requirements
 ```
 pip install -r requirements.txt
 ```
@@ -9,6 +10,6 @@ pip install -r requirements.txt
 # How to run
 
 
-Windows: run DriveSearch.bat
+Windows: run `DriveSearch.bat`
 
-Linux/Mac: `` python DriveSearch.py``
+Linux/Mac: ``python DriveSearch.py``
